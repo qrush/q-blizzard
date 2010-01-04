@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q-Blizzard", "Q-Blizzard.csproj", "{1125DF61-D00C-480D-8434-C8801A9DF267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1125DF61-D00C-480D-8434-C8801A9DF267}.Debug|x86.ActiveCfg = Release|x86
+		{1125DF61-D00C-480D-8434-C8801A9DF267}.Debug|x86.Build.0 = Release|x86
+		{1125DF61-D00C-480D-8434-C8801A9DF267}.Release|x86.ActiveCfg = Release|x86
+		{1125DF61-D00C-480D-8434-C8801A9DF267}.Release|x86.Build.0 = Release|x86
+		{A79AA8DE-F8A0-4994-B55C-62CF075A7A8A}.Debug|x86.ActiveCfg = Debug|x86
+		{A79AA8DE-F8A0-4994-B55C-62CF075A7A8A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
